@@ -1,0 +1,2 @@
+因为是用pyqt画的界面，所以从https://sourceforge.net/projects/pyqt/files/PyQt5/这里选择PyQt5-5.6-gpl-Py3.4-Qt5.5.1-x64.exeWindows 64 bit installer下载并安装
+多的三个文件，caffe.ui是pyqt的ui文件 caffe.py是对应ui转换后的python文件 main.py是主程序，其他的文件，有变动也只是将输出语句注释掉
